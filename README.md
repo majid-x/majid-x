@@ -21,9 +21,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhadjaman&label=Profile%20views&color=0e75b6&style=flat" alt="farhadjaman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-x&label=Profile%20views&color=0e75b6&style=flat" alt="majid-x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhadjaman" alt="farhadjaman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majid-x" alt="majid-x" /></a> </p>
 
 <p align="center">
 </p>
