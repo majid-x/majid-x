@@ -1,36 +1,75 @@
-<h1 align="center">Hi 👋, I'm Majid</h1>
-<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
-
-<h1 style="color:A8DADC;">Connect with Me</h1>
-<div>
-
-<a href="https://www.linkedin.com/in/farhadjaman/" >
-<img height="28" width="28" src="https://user-images.githubusercontent.com/89217255/184475188-cdd5186c-59c0-4dde-a84e-506466cf0e6f.svg" />
-</a>
-
-<a href="https://www.facebook.com/farhadjamann/" >
-<img height="28" width="28" src="https://user-images.githubusercontent.com/89217255/184475221-7ab936b7-8295-4dc8-93cb-7c6d2a454f67.svg" />
-</a>
-
-<a href="https://twitter.com/fjworkshopforu" >
-<img height="28" width="28" src="https://user-images.githubusercontent.com/89217255/184475200-8d1c527a-25a9-46fc-a06d-bac6b1f95d29.svg" />
-</a>
-
-</div>
-<img src="https://github-readme-stats.vercel.app/api?username=farhadjaman&&show_icons=true&title_color=E63946&icon_color=E63946&text_color=f1faee&bg_color=023047">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-x&label=Profile%20views&color=0e75b6&style=flat" alt="majid-x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majid-x" alt="majid-x" /></a> </p>
+# Hi there, I'm Abdul Majid 👋  
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;MERN+%7C+Swift+iOS+Developer;AI+Agents+%7C+Automation+%7C+App+Developer;Open+Source+Contributor" alt="Typing animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadjaman&show_icons=true&locale=en&layout=compact" alt="farhadjaman" /></p>
+## 🚀 About Me
+- 💻 Full Stack **Software Engineer** with **2+ years** of professional experience  
+- 🖥️ Skilled in **MERN stack (MongoDB, Express.js, React.js, Node.js)**  
+- 📱 **iOS Developer (Swift)** – building scalable and performant mobile apps  
+- 🤖 Building **AI agents**, automation workflows, and next-gen applications  
+- 🌍 Passionate about **open-source, productivity, and developer experience**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhadjaman&" alt="farhadjaman" /></p>
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+`React.js` | `React Native` | `Next.js` | `TailwindCSS` | `HTML` | `CSS`  
+
+**Backend:**  
+`Node.js` | `Express.js` | `FastAPI` | `REST APIs` | `GraphQL`  
+
+**Mobile:**  
+`Swift (iOS)` | `React Native` | `Expo`  
+
+**Databases:**  
+`MongoDB` | `PostgreSQL` | `SQLite` | `Firebase`  
+
+**AI & Automation:**  
+`LangChain` | `LLMs` | `n8n` | `Python (AI Agents)`  
+
+**Tools & DevOps:**  
+`Git` | `GitHub Actions` | `Docker` | `CI/CD` | `Postman` | `Vercel` | `Azure`  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=majid-x&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majid-x&theme=radical" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=majid-x&theme=react-dark" />
+</p>
+
+---
+
+## 🎬 Fun Animations
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=majid-x&theme=onedark&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+</p>
+
+---
+
+## 🌐 Let's Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ From [Majid](https://github.com/majid-x)  
